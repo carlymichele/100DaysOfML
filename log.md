@@ -72,10 +72,10 @@ I also networked with many engineers and students. I loved meeting people who ar
 
 ### Day 8: October 30, 2018
 
-**Today's Progress**:
+**Today's Progress**: Creating my Kaggle Account
 
-**Time**:
+**Time**: 1 hour
 
-**Thoughts:**
+**Thoughts:** Today I created an account on Kaggle and completed one of the Intro Notebooks. I'm still not completely sure how to use Kaggle and need more time to click around the website.
 
-**Link to Project**: [ ](https://github.com/carlymichele)
+<!-- **Link to Project**: [ ](https://github.com/carlymichele) -->

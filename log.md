@@ -106,5 +106,6 @@ I also networked with many engineers and students. I loved meeting people who ar
 **Time**: 1 hour
 
 **Thoughts:** Completing the first MATLAB assignment in my Coursera class. I will probably use Jupyter Notebooks for uploading my assignments to GitHub as it is easier to use and better for graphing.
-*Include a link to Assignment on Github here**
+***Include a link to Assignment on Github here***
+
 <!-- **Link to Project**: [ ](https://github.com/carlymichele) -->

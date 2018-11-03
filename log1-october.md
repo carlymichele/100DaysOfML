@@ -1,4 +1,4 @@
-# 100 Days Of ML Code - Challenge Log
+# 100 Days Of ML Code - Month 1 (October 17 - October 31)
  #100DaysofMLCode Challenge: to commit an hour a day (or almost everyday) to code/study machine learning for 100 days.
 
 ## Day 1: October 17, 2018
@@ -89,7 +89,6 @@ I also networked with many engineers and students. I loved meeting people who ar
 
 **Thoughts:** Today I created an account on Kaggle and completed one of the Intro Notebooks. I'm still not completely sure how to use Kaggle and need more time to click around the website.
 
-<!-- **Link to Project**: [ ](https://github.com/carlymichele) -->
 
 ### Day 10: October 31, 2018
 
@@ -98,17 +97,5 @@ I also networked with many engineers and students. I loved meeting people who ar
 **Time**: 1 hour
 
 **Thoughts:** I put in a very small amount of effort today but something is better than nothing. I started following a couple of machine learning podcasts so that I have something other than music to listen to when I'm in transit. Today, I watched a few ml videos on how to get jobs as a Data Scientist. I want to research opportunities to combine AI/ML and community service projects.
-
-<!-- **Link to Project**: [ ](https://github.com/carlymichele) -->
-
-### Day 11: November 2, 2018
-
-**Today's Progress**: CourseraML: Week 2 Assignment - Linear Regression
-
-**Time**: 1 hour
-
-**Thoughts:** Completing the first MATLAB assignment in my Coursera class. I will probably use Jupyter Notebooks for uploading my assignments to GitHub as it is easier to use and better for graphing.
-
-***Include a link to Assignment on Github here***
 
 <!-- **Link to Project**: [ ](https://github.com/carlymichele) -->

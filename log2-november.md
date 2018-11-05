@@ -21,6 +21,14 @@
 <!-- ***Include a link to Assignment on Github here*** -->
 <!-- **Link to Project**: [ ](https://github.com/carlymichele) -->
 
+### Day 13: November 4, 2018
+
+**Today's Progress**: Intro to Spell
+
+**Time**: 1 hour
+
+**Thoughts:** Learned how to use Spell for machine learning in the Cloud. I started by watching this Coding Train [video](https://youtu.be/ggBOAPtFjYU)
+
 <!--
 ### Day 13: November 4, 2018
 
@@ -28,7 +36,7 @@
 
 **Time**: 1 hour
 
-**Thoughts:** Completing the first MATLAB assignment in my Coursera class. I will probably use Jupyter Notebooks for uploading my assignments to GitHub as it is easier to use and better for graphing.
+**Thoughts:** Completing the first MATLAB assignment in my Coursera class. I will probably use Jupyter Notebooks for uploading my assignments to GitHub as it is easier to use and better for graphing. -->
 
 <!-- ***Include a link to Assignment on Github here*** -->
-<!-- **Link to Project**: [ ](https://github.com/carlymichele) -->
+<!-- **Link to Project**: [ ](https://github.com/carlymichele)

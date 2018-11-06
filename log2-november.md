@@ -34,7 +34,7 @@
 
 **Today's Progress**: Machine Learning in the Browser
 
-**Time**: 1 hour
+**Time**: 1 hour  
 
 **Thoughts:** Watched a few videos on how to use TensorFlow.js with Coding Train
 

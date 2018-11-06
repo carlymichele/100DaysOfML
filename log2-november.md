@@ -36,7 +36,7 @@
 
 **Time**: 1 hour  
 
-**Thoughts:** Watched a few videos on how to use TensorFlow.js with Coding Train
+**Thoughts:** Watched a few videos on how to use TensorFlow.js with Coding Train. I also completed a lot of Linear Algebra homework which is kinda related??
 
 <!-- ***Include a link to Assignment on Github here***
 

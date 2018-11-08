@@ -30,7 +30,7 @@
 **Thoughts:** Learned how to use Spell for machine learning in the Cloud. I started by watching this Coding Train [video](https://youtu.be/ggBOAPtFjYU)
 
 
-### Day 13: November 5, 2018
+### Day 14: November 5, 2018
 
 **Today's Progress**: Machine Learning in the Browser
 
@@ -38,16 +38,25 @@
 
 **Thoughts:** Watched a few videos on how to use TensorFlow.js with Coding Train. I also completed a lot of Linear Algebra homework which is kinda related??
 
-<!-- ***Include a link to Assignment on Github here***
+<!-- ***Include a link to Assignment on Github here*** -->
 
+### Day 15: November 7, 2018
 
-### Day 13: November 4, 2018
+**Today's Progress**: CourseraML: Week 3
+
+**Time**: 2.5 hours
+
+**Thoughts:** Went through Logistic Regression videos with my study group. I learned that logistic regression is a linear regression model for classification problems. Understanding how and when to use the sigmoid function was a little confusion, but made a lot of sense after discussing the homework with the group.
+
+<!-- ### Day 16: November 8, 2018
 
 **Today's Progress**: CourseraML: HW #2 - Linear Regression
 
 **Time**: 1 hour
 
-**Thoughts:** Completing the first MATLAB assignment in my Coursera class. I will probably use Jupyter Notebooks for uploading my assignments to GitHub as it is easier to use and better for graphing. -->
+**Thoughts:** Yesterday, I had my first meeting for my club so I did not have time to complete the challenge. However, today I have my third study group with my CourseraML class. -->
+
+<!-- Completing the first MATLAB assignment in my Coursera class. I will probably use Jupyter Notebooks for uploading my assignments to GitHub as it is easier to use and better for graphing. -->
 
 <!-- ***Include a link to Assignment on Github here***
 

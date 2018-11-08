@@ -18,8 +18,6 @@
 
 **Thoughts:** Watched videos on how to use MATLAB and how to submit assignments for class.
 
-<!-- ***Include a link to Assignment on Github here*** -->
-<!-- **Link to Project**: [ ](https://github.com/carlymichele) -->
 
 ### Day 13: November 4, 2018
 
@@ -38,7 +36,6 @@
 
 **Thoughts:** Watched a few videos on how to use TensorFlow.js with Coding Train. I also completed a lot of Linear Algebra homework which is kinda related??
 
-<!-- ***Include a link to Assignment on Github here*** -->
 
 ### Day 15: November 7, 2018
 

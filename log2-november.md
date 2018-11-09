@@ -45,16 +45,24 @@
 
 **Thoughts:** Went through Logistic Regression videos with my study group. I learned that logistic regression is a linear regression model for classification problems. Understanding how and when to use the sigmoid function was a little confusion, but made a lot of sense after discussing the homework with the group.
 
-<!-- ### Day 16: November 8, 2018
+### Day 16: November 8, 2018
 
-**Today's Progress**: CourseraML: HW #2 - Linear Regression
+**Today's Progress**: Linear Algebra HW and CourseraML videos
 
-**Time**: 1 hour
+**Time**: 7 hours
 
-**Thoughts:** Yesterday, I had my first meeting for my club so I did not have time to complete the challenge. However, today I have my third study group with my CourseraML class. -->
+**Thoughts:** No thoughts.
 
-<!-- Completing the first MATLAB assignment in my Coursera class. I will probably use Jupyter Notebooks for uploading my assignments to GitHub as it is easier to use and better for graphing. -->
+<!--
+### Day 17: November 9, 2018
 
-<!-- ***Include a link to Assignment on Github here***
+**Today's Progress**: Linear Algebra HW and CourseraML videos
 
-<!-- **Link to Project**: [ ](https://github.com/carlymichele)
+**Time**: 7 hours
+
+**Thoughts:** No thoughts.
+
+Completing the first MATLAB assignment in my Coursera class. I will probably use Jupyter Notebooks for uploading my assignments to GitHub as it is easier to use and better for graphing.
+
+***Include a link to Assignment on Github here***
+**Link to Project**: [ ](https://github.com/carlymichele) -->

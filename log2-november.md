@@ -53,12 +53,22 @@
 
 **Thoughts:** No thoughts.
 
-<!--
+
 ### Day 17: November 9, 2018
 
 **Today's Progress**: Linear Algebra HW and CourseraML videos
 
-**Time**: 7 hours
+**Time**: 2 hours
+
+**Thoughts:** No thoughts.
+
+
+<!--
+### Day 18: November 10, 2018
+
+**Today's Progress**: Linear Algebra HW and CourseraML videos
+
+**Time**: 2 hours
 
 **Thoughts:** No thoughts.
 

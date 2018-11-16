@@ -117,4 +117,6 @@ Below are some of my general comments about the exhibits, talks, and companies..
 >I also met a woman who was using her love for art and data science to make paintings with Google DeepMind. She trained her personal model using her own art to see if she could recreate images that replicate her painting style.
 
 >**Talks** <br><br>
->AI and Fake News 
+>Solving Fake News with Deep Learning
+>[FakerFact](https://www.fakerfact.org/)
+>

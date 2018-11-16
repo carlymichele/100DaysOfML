@@ -63,7 +63,6 @@
 **Thoughts:** No thoughts.
 
 
-<!--
 ### Day 18: November 10, 2018
 
 **Today's Progress**: Linear Algebra HW and CourseraML videos
@@ -74,5 +73,48 @@
 
 Completing the first MATLAB assignment in my Coursera class. I will probably use Jupyter Notebooks for uploading my assignments to GitHub as it is easier to use and better for graphing.
 
-***Include a link to Assignment on Github here***
+<!-- ***Include a link to Assignment on Github here***
 **Link to Project**: [ ](https://github.com/carlymichele) -->
+
+
+### Day 19: November 12, 2018
+
+**Today's Progress**: Linear Algebra HW and CourseraML videos
+
+**Time**: 2 hours
+
+**Thoughts:** No thoughts.
+
+Completing the first MATLAB assignment in my Coursera class. I will probably use Jupyter Notebooks for uploading my assignments to GitHub as it is easier to use and better for graphing.
+
+<!-- ***Include a link to Assignment on Github here***
+**Link to Project**: [ ](https://github.com/carlymichele) -->
+
+
+### Day 20: November 13, 2018
+
+**Today's Progress**: Linear Algebra HW
+
+**Time**: 2 hours
+
+**Thoughts:** No thoughts.
+
+
+### Day 20: November 14, 2018
+
+**Today's Progress**: [MLConf 2018, San Francisco](https://mlconf.com/)
+
+**Time**: 9 hours
+
+**Thoughts:** I had the pleasure of attending MLConf today in San Francisco! Here are some of my general comments. I was sponsored by Sarah Braden (who was on the program committee) and I learned a lot from talking to her about applications on ML in nature and music. She is a data scientist and has a PhD in Geological Sciences. I felt very privileged to get her point of view because she has such a diverse educational and professional background.
+
+Below are some of my general comments about the exhibits, talks, and companies...
+
+<!-- >##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
+>**Exhibits:** <br><br>
+>Outside of the conference room, there were many tables for companies and researchers to showcase their work. Of course, I was immediately drawn to the art tables.
+>One of my favorite exhibits was research study on how to **generate music and poetry using Deep Learning**. To be honest, I didn't understand most of the technical jargon that the researcher used but I appreciated that he took the time to explain how it worked. Their model wasn't very good yet and creating good songs but it had an impressive collection of successes. I was fascinated by how realistic the music was. <br><br>
+>I also met a woman who was using her love for art and data science to make paintings with Google DeepMind. She trained her personal model using her own art to see if she could recreate images that replicate her painting style.
+
+>**Talks** <br><br>
+>AI and Fake News 

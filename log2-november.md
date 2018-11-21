@@ -71,11 +71,6 @@
 
 **Thoughts:** No thoughts.
 
-Completing the first MATLAB assignment in my Coursera class. I will probably use Jupyter Notebooks for uploading my assignments to GitHub as it is easier to use and better for graphing.
-
-<!-- ***Include a link to Assignment on Github here***
-**Link to Project**: [ ](https://github.com/carlymichele) -->
-
 
 ### Day 19: November 12, 2018
 
@@ -142,8 +137,11 @@ Below are some of my general comments about the exhibits, talks, and companies..
 
 ### Day 24: November 20, 2018
 
-**Today's Progress**: ML Videos
+**Today's Progress**: CourseraML: Week 2 Assignment
 
 **Time**: 2 hours
 
-**Thoughts:** No thoughts.
+**Thoughts:** Completing the first MATLAB assignment in my Coursera class. I will probably use Jupyter Notebooks for uploading my assignments to GitHub as it is easier to use and better for graphing.
+
+<!-- ***Include a link to Assignment on Github here***
+**Link to Project**: [ ](https://github.com/carlymichele) -->

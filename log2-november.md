@@ -100,7 +100,7 @@ Completing the first MATLAB assignment in my Coursera class. I will probably use
 **Thoughts:** No thoughts.
 
 
-### Day 20: November 14, 2018
+### Day 21: November 14, 2018
 
 **Today's Progress**: [MLConf 2018, San Francisco](https://mlconf.com/)
 
@@ -120,3 +120,30 @@ Below are some of my general comments about the exhibits, talks, and companies..
 >Solving Fake News with Deep Learning
 >[FakerFact](https://www.fakerfact.org/)
 >
+
+
+### Day 22: November 18, 2018
+
+**Today's Progress**: Linear Algebra HW
+
+**Time**: 6 hours
+
+**Thoughts:** Studying for test.
+
+
+### Day 23: November 19, 2018
+
+**Today's Progress**: ML Youtube Videos
+
+**Time**: 2 hours
+
+**Thoughts:** Watched several youtube videos on Generative Adversarial Networks (GAN) including a video on [AI in China](https://youtu.be/4Gk6mxKXKTk) by Siraj Raval.
+
+
+### Day 24: November 20, 2018
+
+**Today's Progress**: ML Videos
+
+**Time**: 2 hours
+
+**Thoughts:** No thoughts.

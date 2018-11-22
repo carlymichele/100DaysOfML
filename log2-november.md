@@ -144,3 +144,15 @@ Below are some of my general comments about the exhibits, talks, and companies..
 **Thoughts:** Completing the first MATLAB assignment in my Coursera class. I will probably use Jupyter Notebooks for uploading my assignments to GitHub as it is easier to use and better for graphing.
 <!-- ***Include a link to Assignment on Github here*** -->
 **Link to Project**: [CourseraML](https://github.com/carlymichele/CourseraML)
+
+
+### Day 25: November 21, 2018
+
+**Today's Progress**: CourseraML: Week 2 Assignment cont'd
+
+**Time**: 3 hours
+
+**Thoughts:** Continuing assignment from yesterday...
+I spent most of the day downloading and learning how to use Octave.
+
+**Link to Project**: [CourseraML](https://github.com/carlymichele/CourseraML)

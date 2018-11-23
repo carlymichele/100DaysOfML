@@ -156,3 +156,15 @@ Below are some of my general comments about the exhibits, talks, and companies..
 I spent most of the day downloading and learning how to use Octave.
 
 **Link to Project**: [CourseraML](https://github.com/carlymichele/CourseraML)
+
+
+### Day 26: November 22, 2018
+
+**Today's Progress**: CourseraML: Week 2 Assignment cont'd
+
+**Time**: 3 hours
+
+**Thoughts:** Continuing assignment from yesterday...
+I found [an article that demonstrates how to implement Python](https://medium.com/analytics-vidhya/python-implementation-of-andrew-ngs-machine-learning-course-part-1-6b8dd1c73d80)  into the homework assignments for this course.
+
+**Link to Project**: [CourseraML](https://github.com/carlymichele/CourseraML)

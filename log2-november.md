@@ -168,3 +168,15 @@ I spent most of the day downloading and learning how to use Octave.
 I found [an article that demonstrates how to implement Python](https://medium.com/analytics-vidhya/python-implementation-of-andrew-ngs-machine-learning-course-part-1-6b8dd1c73d80)  into the homework assignments for this course.
 
 **Link to Project**: [CourseraML](https://github.com/carlymichele/CourseraML)
+
+
+### Day 27: November 23, 2018
+
+**Today's Progress**: CourseraML: Week 2 Assignment cont'd
+
+**Time**: 1 hour
+
+**Thoughts:** Continuing assignment from yesterday...
+Completed Linear Regression Model with One Variable, continued model with multiple variables
+
+**Link to Project**: [CourseraML](https://github.com/carlymichele/CourseraML)

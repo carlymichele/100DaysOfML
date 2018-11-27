@@ -203,7 +203,17 @@ Completed Linear Regression Model with One Variable, continued model with multip
 
 **Link to Project**: [CourseraML](https://github.com/carlymichele/CourseraML)
 
+
 ### Day 30: November 26, 2018
+
+**Today's Progress**: ML Videos
+
+**Time**: 1 hour
+
+**Thoughts:** Watched videos on autonomous AI machines
+
+
+### Day 31: November 27, 2018
 
 **Today's Progress**: ML Videos
 

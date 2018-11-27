@@ -180,3 +180,33 @@ I found [an article that demonstrates how to implement Python](https://medium.co
 Completed Linear Regression Model with One Variable, continued model with multiple variables
 
 **Link to Project**: [CourseraML](https://github.com/carlymichele/CourseraML)
+
+
+### Day 28: November 24, 2018
+
+**Today's Progress**: CourseraML: Week 2 Assignment cont'd
+
+**Time**: 1 hour
+
+**Thoughts:** Added 3D plot for cost function
+
+**Link to Project**: [CourseraML](https://github.com/carlymichele/CourseraML)
+
+
+### Day 29: November 25, 2018
+
+**Today's Progress**: CourseraML: Week 2 Assignment cont'd
+
+**Time**: 1 hour
+
+**Thoughts:** Fixed 3D graph and added contour plot for one variable model
+
+**Link to Project**: [CourseraML](https://github.com/carlymichele/CourseraML)
+
+### Day 30: November 26, 2018
+
+**Today's Progress**: ML Videos
+
+**Time**: 1 hour
+
+**Thoughts:** Watched videos on autonomous AI machines

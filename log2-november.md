@@ -220,3 +220,12 @@ Completed Linear Regression Model with One Variable, continued model with multip
 **Time**: 1 hour
 
 **Thoughts:** Watched videos on autonomous AI machines
+
+
+### Day 32: November 28, 2018
+
+**Today's Progress**: Researched Twitter Bots
+
+**Time**: 2 hours
+
+**Thoughts:** Not really sure what I want to work on. Leaning toward motivational quote bot or shitpost meme bot.

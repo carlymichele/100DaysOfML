@@ -232,3 +232,14 @@ Completed Linear Regression Model with One Variable, continued model with multip
 Below are some of the links I read while researching:
 * [Python + BeautifulSoup + Twitter + Raspberry Pi](https://emerging.commons.gc.cuny.edu/2013/06/python-beautifulsoup-twitter-raspberry-pi/)
 * [How to build a nonsensical Twitterbot on the Raspberry Pi](https://radix-communications.com/how-to-build-a-nonsensical-twitterbot-on-the-raspberry-pi/)
+
+<!--
+### Day 33: November 29, 2018
+
+**Today's Progress**: CourseraML: Week 2 Assignment cont'd
+
+**Time**: 1 hour
+
+**Thoughts:** Fixed 3D graph and added contour plot for one variable model
+
+**Link to Project**: [CourseraML](https://github.com/carlymichele/CourseraML) -->

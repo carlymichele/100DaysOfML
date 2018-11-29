@@ -143,7 +143,7 @@ Below are some of my general comments about the exhibits, talks, and companies..
 
 **Thoughts:** Completing the first MATLAB assignment in my Coursera class. I will probably use Jupyter Notebooks for uploading my assignments to GitHub as it is easier to use and better for graphing.
 <!-- ***Include a link to Assignment on Github here*** -->
-**Link to Project**: [CourseraML](https://github.com/carlymichele/CourseraML)
+**Link to Project**: [CourseraML](https://github.com/carlymichele/CourseraML/tree/master/hw1inOctave)
 
 
 ### Day 25: November 21, 2018
@@ -155,7 +155,7 @@ Below are some of my general comments about the exhibits, talks, and companies..
 **Thoughts:** Continuing assignment from yesterday...
 I spent most of the day downloading and learning how to use Octave.
 
-**Link to Project**: [CourseraML](https://github.com/carlymichele/CourseraML)
+**Link to Project**: [CourseraML](https://github.com/carlymichele/CourseraML/tree/master/hw1inOctave)
 
 
 ### Day 26: November 22, 2018
@@ -167,7 +167,7 @@ I spent most of the day downloading and learning how to use Octave.
 **Thoughts:** Continuing assignment from yesterday...
 I found [an article that demonstrates how to implement Python](https://medium.com/analytics-vidhya/python-implementation-of-andrew-ngs-machine-learning-course-part-1-6b8dd1c73d80)  into the homework assignments for this course.
 
-**Link to Project**: [CourseraML](https://github.com/carlymichele/CourseraML)
+**Link to Project**: [CourseraML](https://github.com/carlymichele/CourseraML/tree/master/hw1)
 
 
 ### Day 27: November 23, 2018
@@ -179,7 +179,7 @@ I found [an article that demonstrates how to implement Python](https://medium.co
 **Thoughts:** Continuing assignment from yesterday...
 Completed Linear Regression Model with One Variable, continued model with multiple variables
 
-**Link to Project**: [CourseraML](https://github.com/carlymichele/CourseraML)
+**Link to Project**: [CourseraML](https://github.com/carlymichele/CourseraML/tree/master/hw1)
 
 
 ### Day 28: November 24, 2018
@@ -190,7 +190,7 @@ Completed Linear Regression Model with One Variable, continued model with multip
 
 **Thoughts:** Added 3D plot for cost function
 
-**Link to Project**: [CourseraML](https://github.com/carlymichele/CourseraML)
+**Link to Project**: [CourseraML](https://github.com/carlymichele/CourseraML/tree/master/hw1)
 
 
 ### Day 29: November 25, 2018
@@ -201,7 +201,7 @@ Completed Linear Regression Model with One Variable, continued model with multip
 
 **Thoughts:** Fixed 3D graph and added contour plot for one variable model
 
-**Link to Project**: [CourseraML](https://github.com/carlymichele/CourseraML)
+**Link to Project**: [CourseraML](https://github.com/carlymichele/CourseraML/tree/master/hw1)
 
 
 ### Day 30: November 26, 2018
@@ -233,13 +233,13 @@ Below are some of the links I read while researching:
 * [Python + BeautifulSoup + Twitter + Raspberry Pi](https://emerging.commons.gc.cuny.edu/2013/06/python-beautifulsoup-twitter-raspberry-pi/)
 * [How to build a nonsensical Twitterbot on the Raspberry Pi](https://radix-communications.com/how-to-build-a-nonsensical-twitterbot-on-the-raspberry-pi/)
 
-<!--
+
 ### Day 33: November 29, 2018
 
-**Today's Progress**: CourseraML: Week 2 Assignment cont'd
+**Today's Progress**: CourseraML: Week 3 (Logistic Regression)
 
-**Time**: 1 hour
+**Time**: 2 hours
 
 **Thoughts:** Fixed 3D graph and added contour plot for one variable model
 
-**Link to Project**: [CourseraML](https://github.com/carlymichele/CourseraML) -->
+**Link to Project**: [CourseraML](https://github.com/carlymichele/CourseraML)

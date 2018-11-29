@@ -226,6 +226,9 @@ Completed Linear Regression Model with One Variable, continued model with multip
 
 **Today's Progress**: Researched Twitter Bots
 
-**Time**: 2 hours
+**Time**: 1.5 hours
 
-**Thoughts:** Not really sure what I want to work on. Leaning toward motivational quote bot or shitpost meme bot.
+**Thoughts:** Not really sure what I want to work on. Leaning toward motivational quote bot or shitpost meme bot. < br/>
+Below are some of the links I read while researching:
+* [Python + BeautifulSoup + Twitter + Raspberry Pi](https://emerging.commons.gc.cuny.edu/2013/06/python-beautifulsoup-twitter-raspberry-pi/)
+* [How to build a nonsensical Twitterbot on the Raspberry Pi](https://radix-communications.com/how-to-build-a-nonsensical-twitterbot-on-the-raspberry-pi/)

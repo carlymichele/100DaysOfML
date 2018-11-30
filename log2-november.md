@@ -251,4 +251,4 @@ Below are some of the links I read while researching:
 
 **Thoughts:** Fixed 3D graph and added contour plot for one variable model
 
-**Link to Project**: [CourseraML HW#2](https://github.com/carlymichele/CourseraML)
+**Link to Project**: [CourseraML HW#2](https://github.com/carlymichele/CourseraML/tree/master/hw2)

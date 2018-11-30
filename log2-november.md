@@ -236,6 +236,15 @@ Below are some of the links I read while researching:
 
 ### Day 33: November 29, 2018
 
+**Today's Progress**: Researched Twitter Bots
+
+**Time**: 1.5 hours
+
+**Thoughts:** Continued from yesterday
+
+
+### Day 34: November 30, 2018
+
 **Today's Progress**: CourseraML: Week 3 (Logistic Regression)
 
 **Time**: 2 hours

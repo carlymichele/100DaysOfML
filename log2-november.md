@@ -238,7 +238,7 @@ Below are some of the links I read while researching:
 
 **Today's Progress**: Researched Twitter Bots
 
-**Time**: 1.5 hours
+**Time**: 2 hours
 
 **Thoughts:** Continued from yesterday
 

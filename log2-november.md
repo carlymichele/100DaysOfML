@@ -252,7 +252,7 @@ Below are some of the links I read while researching:
 **Thoughts:** No thoughts.
 
 
-<!-- ### Day 35: December 1, 2018
+### Day 35: December 1, 2018
 
 **Today's Progress**: CourseraML: Week 3 (Logistic Regression)
 
@@ -260,4 +260,4 @@ Below are some of the links I read while researching:
 
 **Thoughts:** Fixed 3D graph and added contour plot for one variable model
 
-**Link to Project**: [CourseraML HW#2](https://github.com/carlymichele/CourseraML/tree/master/hw2) -->
+**Link to Project**: [CourseraML HW#2](https://github.com/carlymichele/CourseraML/tree/master/hw2)

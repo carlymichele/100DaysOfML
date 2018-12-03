@@ -263,13 +263,11 @@ Below are some of the links I read while researching:
 
 ### Day 36: December 2, 2018
 
-**Today's Progress**: Digit Recognizer | Kaggle Challenge
+**Today's Progress**: Digit Recognizer | [*Kaggle Challenge*](https://www.kaggle.com/c/digit-recognizer)
 
 **Time**: 2 hours
 
-**Thoughts:** *Kaggle Description* - MNIST ("Modified National Institute of Standards and Technology") is the de facto “hello world” dataset of computer vision. Since its release in 1999, this classic dataset of handwritten images has served as the basis for benchmarking classification algorithms. As new machine learning techniques emerge, MNIST remains a reliable resource for researchers and learners alike.
-
-In this competition, your goal is to correctly identify digits from a dataset of tens of thousands of handwritten images. We’ve curated a set of tutorial-style kernels which cover everything from regression to neural networks. We encourage you to experiment with different algorithms to learn first-hand what works well and how techniques compare.
+**Thoughts:** Started Digit Recognizer project that identifies handwritten numbers using neural networks
 
 **Link to Project**: [Digit Recognizer](https://github.com/carlymichele/Digit-Recognizer)
 

@@ -271,13 +271,24 @@ Below are some of the links I read while researching:
 
 **Link to Project**: [Digit Recognizer](https://github.com/carlymichele/Digit-Recognizer)
 
-<!--
+
 ### Day 37: December 3, 2018
 
 **Today's Progress**: CourseraML: Week 3 (Logistic Regression)
 
+**Today's Progress**: Linear Algebra HW
+
+**Time**: 1 hour
+
+**Thoughts:** No thoughts.
+
+
+### Day 37: December 4, 2018
+
+**Today's Progress**: KaggleML-Lesson1 | [*Kaggle Challenge*](https://www.kaggle.com/dansbecker/underfitting-and-overfitting)
+
 **Time**: 2 hours
 
-**Thoughts:** Fixed 3D graph and added contour plot for one variable model
+**Thoughts:** Practiced model fine-tuning with Kaggle machine learning course.
 
-**Link to Project**: [CourseraML HW#2](https://github.com/carlymichele/CourseraML/tree/master/hw2) -->
+**Link to Project**: [KaggleML-Lesson1](https://github.com/carlymichele/KaggleML-Lesson1)

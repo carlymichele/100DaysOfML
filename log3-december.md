@@ -51,13 +51,13 @@
 
 **Thoughts:** First, I met with students that are interested in the GLO Summit. I have identified people that I would want to work on a project. Later in the day, I talked to my friends about the future of AI and world peace.
 
-<!--
+
 ### Day 40: December 7, 2018
 
-**Today's Progress**: CourseraML: Week 3 Assignment Logistic Regression
+**Today's Progress**: Finished CODE2040 Assessment #2
 
-**Time**: 2 hours
+**Time**: 3 hours
 
 **Thoughts:** Fixed 3D graph and added contour plot for one variable model
 
-**Link to Project**: [CourseraML HW#2](https://github.com/carlymichele/CourseraML/tree/master/hw2) -->
+**Link to Project**: [Qualified Assessments](https://github.com/carlymichele/Coding-Solutions/tree/master/QualifiedAssessments)

@@ -294,7 +294,16 @@ Below are some of the links I read while researching:
 **Link to Project**: [KaggleML-Lesson1](https://github.com/carlymichele/KaggleML-Lesson1)
 
 
-### Day 38: December 5, 2018
+### Day 39: December 6, 2018
+
+**Today's Progress**: Thoughtful Discussion on AI
+
+**Time**: 3 hours
+
+**Thoughts:** First, I met with students that are interested in the GLO Summit. I have identified people that I would want to work on a project. Later in the day, I talked to my friends about the future of AI and world peace.
+
+<!--
+### Day 40: December 7, 2018
 
 **Today's Progress**: CourseraML: Week 3 Assignment Logistic Regression
 
@@ -302,4 +311,4 @@ Below are some of the links I read while researching:
 
 **Thoughts:** Fixed 3D graph and added contour plot for one variable model
 
-**Link to Project**: [CourseraML HW#2](https://github.com/carlymichele/CourseraML/tree/master/hw2)
+**Link to Project**: [CourseraML HW#2](https://github.com/carlymichele/CourseraML/tree/master/hw2) -->

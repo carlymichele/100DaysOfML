@@ -54,10 +54,8 @@
 
 ### Day 40: December 7, 2018
 
-**Today's Progress**: Finished CODE2040 Assessment #2
+**Today's Progress**: Linear Algebra HW - Eigenvectors and Eigenvalues
 
 **Time**: 3 hours
 
-**Thoughts:** Fixed 3D graph and added contour plot for one variable model
-
-**Link to Project**: [Qualified Assessments](https://github.com/carlymichele/Coding-Solutions/tree/master/QualifiedAssessments)
+**Thoughts:** I need to use this for machine learning at some point so I at least know it is relevant...

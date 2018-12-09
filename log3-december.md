@@ -59,3 +59,12 @@
 **Time**: 3 hours
 
 **Thoughts:** I need to use this for machine learning at some point so I at least know it is relevant...
+
+
+### Day 41: December 8, 2018
+
+**Today's Progress**: ML Youtube Videos
+
+**Time**: 2 hours
+
+**Thoughts:** No thoughts

@@ -25,8 +25,6 @@
 
 **Today's Progress**: CourseraML: Week 3 (Logistic Regression)
 
-**Today's Progress**: Linear Algebra HW
-
 **Time**: 1 hour
 
 **Thoughts:** No thoughts.

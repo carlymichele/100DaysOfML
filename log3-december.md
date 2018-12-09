@@ -63,7 +63,7 @@
 
 ### Day 41: December 8, 2018
 
-**Today's Progress**: ML Youtube Videos
+**Today's Progress**: ML Youtube Videos | Learning how to build Twitter bots
 
 **Time**: 2 hours
 

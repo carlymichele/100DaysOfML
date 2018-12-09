@@ -54,7 +54,7 @@
 
 ### Day 40: December 7, 2018
 
-**Today's Progress**: Linear Algebra HW - Eigenvectors and Eigenvalues
+**Today's Progress**: Linear Algebra HW - Eigenvectors and Eigenvalues (7.2)
 
 **Time**: 3 hours
 
@@ -68,3 +68,12 @@
 **Time**: 2 hours
 
 **Thoughts:** No thoughts
+
+
+### Day 42: December 9, 2018
+
+**Today's Progress**: Linear Algebra HW - Eigenvectors and Eigenvalues (7.3)
+
+**Time**: 3 hours
+
+**Thoughts:** Continuing Chapter 7. Using this time to study for my final

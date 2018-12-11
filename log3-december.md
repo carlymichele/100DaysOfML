@@ -75,3 +75,12 @@
 **Time**: 3 hours
 
 **Thoughts:** Continuing Chapter 7. Using this time to study for my final
+
+
+### Day 42: December 9, 2018
+
+**Today's Progress**: Studying for Linear Algebra Final
+
+**Time**: 8 hours
+
+**Thoughts:** No thoughts.

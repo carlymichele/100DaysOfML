@@ -84,3 +84,12 @@
 **Time**: 8 hours
 
 **Thoughts:** I am so glad to almost be done with this.
+
+
+### Day 44: December 11, 2018
+
+**Today's Progress**: Linear Algebra Final Part One
+
+**Time**: 2 hours
+
+**Thoughts:** I took my final today. It was not my favorite.

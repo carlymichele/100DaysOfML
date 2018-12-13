@@ -104,7 +104,7 @@
 **Thoughts:** No thoughts.
 
 
-### Day 44: December 11, 2018
+### Day 46: December 13, 2018
 
 **Today's Progress**: Linear Algebra Final Part Two
 

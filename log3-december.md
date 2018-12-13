@@ -93,3 +93,21 @@
 **Time**: 2 hours
 
 **Thoughts:** I took my final today. It was not my favorite.
+
+
+### Day 45: December 12, 2018
+
+**Today's Progress**: Studying for Linear Algebra Final Part Two
+
+**Time**: 8 hours
+
+**Thoughts:** No thoughts.
+
+
+### Day 44: December 11, 2018
+
+**Today's Progress**: Linear Algebra Final Part Two
+
+**Time**: 2 hours
+
+**Thoughts:** I feel so happy to finally be done with this class. I learned so much that will help me in my ML career. I also found new love for creativity in math.

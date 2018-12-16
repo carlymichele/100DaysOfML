@@ -80,11 +80,6 @@
 
 **Thoughts:** No thoughts.
 
-Completing the first MATLAB assignment in my Coursera class. I will probably use Jupyter Notebooks for uploading my assignments to GitHub as it is easier to use and better for graphing.
-
-<!-- ***Include a link to Assignment on Github here***
-**Link to Project**: [ ](https://github.com/carlymichele) -->
-
 
 ### Day 20: November 13, 2018
 

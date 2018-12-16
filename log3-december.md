@@ -29,8 +29,10 @@
 
 **Thoughts:** No thoughts.
 
+**Link to Project**: [Logistic Regression](https://github.com/carlymichele/CourseraML/tree/master/hw2)
 
-### Day 37: December 4, 2018
+
+### Day 38: December 4, 2018
 
 **Today's Progress**: KaggleML-Lesson1 | [*Kaggle Challenge*](https://www.kaggle.com/dansbecker/underfitting-and-overfitting)
 

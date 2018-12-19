@@ -113,3 +113,12 @@
 **Time**: 2 hours
 
 **Thoughts:** I feel so happy to finally be done with this class. I learned so much that will help me in my ML career. I also found new love for creativity in math.
+
+
+### Day 47 : December 18, 2018
+
+**Today's Progress**: School of AI Winterfest 2018
+
+**Time**: 3 hours
+
+**Thoughts:** I finally met with the Deans of San Francisco's [School of AI](https://www.theschool.ai/). Unfortunately, I was the only person that showed up (along with my sister Jaeda) but this gave me an advantage as I was able to discuss the future of the chapter. I mentioned that I wanted to start working on community service learning projects and everyone seemed very happy about that idea. I am working on creating a list of non-profits to reach out to as well as come up with possible uses for machine learning in the community.

@@ -124,3 +124,14 @@
 **Thoughts:** I finally met with the Deans of San Francisco's [School of AI](https://www.theschool.ai/). Unfortunately, I was the only person that showed up (along with my sister Jaeda) but this gave me an advantage as I was able to discuss the future of the chapter. I mentioned that I wanted to start working on community service learning projects and everyone seemed very happy about that idea. I am working on creating a list of non-profits to reach out to as well as come up with possible uses for machine learning in the community.
 
 **Link to Project**: [Research Presentation by Carson](https://docs.google.com/presentation/d/1K7nb7m0TD9LuVWVP5PabZ8n_TkJ3N_WUzM49qb-UcqM/edit#slide=id.p)
+
+
+### Day 48 : December 19, 2018
+
+**Today's Progress**: Chatbot Idea | Interview prep for the homeless
+
+**Time**: 2 hours
+
+**Thoughts:** I thought of a potential project to make an interview prep chatbot to help prepare the homeless for interviews. Will add more details later tomorrow.
+
+<!-- **Link to Project**: [Chatbot Github Repo]() -->

@@ -135,3 +135,11 @@
 **Thoughts:** I thought of a potential project to make an interview prep chatbot to help prepare the homeless for interviews. Will add more details later tomorrow.
 
 <!-- **Link to Project**: [Chatbot Github Repo]() -->
+
+### Day 49 : December 21, 2018
+
+**Today's Progress**: ML Professional Videos
+
+**Time**: 3 hours
+
+**Thoughts:** Watched videos on how to find ML internships and projects.

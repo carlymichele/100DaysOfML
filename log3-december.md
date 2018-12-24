@@ -143,3 +143,21 @@
 **Time**: 3 hours
 
 **Thoughts:** Watched videos on how to find ML internships and projects.
+
+
+### Day 50 : December 22, 2018
+
+**Today's Progress**: LinkedIn/Personal Development Advice
+
+**Time**: 1 hour
+
+**Thoughts:** Talked to my mom's friend about how to interview for data science companies like Nvidia as well as increasing my SEO on LinkedIn
+
+
+### Day 51 : December 23, 2018
+
+**Today's Progress**: Applied to Internships
+
+**Time**: 3 hours
+
+**Thoughts:** Today I contacted a couple of companies through CODE2040 Fellows portal regarding data science internships.

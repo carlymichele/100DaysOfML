@@ -23,7 +23,7 @@
 
 ### Day 37: December 3, 2018
 
-**Today's Progress**: CourseraML: Week 3 (Logistic Regression)
+**Today's Progress**: CourseraML: Week 3 video (Logistic Regression)
 
 **Time**: 1 hour
 
@@ -161,3 +161,14 @@
 **Time**: 3 hours
 
 **Thoughts:** Today I contacted a couple of companies through CODE2040 Fellows portal regarding data science internships.
+
+
+### Day 52: December 26, 2018
+
+**Today's Progress**: CourseraML: Logistic Regression - Multiclass Classification and Representation
+
+**Time**: 1 hour
+
+**Thoughts:** I am finally getting through these videos! I completed the logistic regression quiz and got a 40% so I need to put more time toward practicing.
+
+**Link to Project**: [Logistic Regression](https://github.com/carlymichele/CourseraML/tree/master/hw2)

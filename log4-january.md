@@ -8,3 +8,12 @@
 **Time**: 3.5 hours
 
 **Thoughts:** I attended the first SoAI meetup of the year. Before the event started, I got to know some of the students and introduce myself. At the beginning of the presentation, I was also introduced as a dean! I'm excited to work with everyone on our hackathon next month.
+
+
+### Day 54: January 19, 2018
+
+**Today's Progress**: CODE2040 Coding Interviews
+
+**Time**: 4 hours
+
+**Thoughts:** I completed my combined math and programming assessment for an internship application with CODE2040 Fellows.

@@ -12,8 +12,28 @@
 
 ### Day 54: January 19, 2018
 
-**Today's Progress**: CODE2040 Coding Interviews
+**Today's Progress**: CODE2040 Data Science Interviews
 
 **Time**: 4 hours
 
 **Thoughts:** I completed my combined math and programming assessment for an internship application with CODE2040 Fellows.
+
+
+### Day 54: January 20, 2018
+
+**Today's Progress**: Data Science Interview Practice
+
+**Time**: 1 hour
+
+**Thoughts:** Practicing interview questions on Hackerrank
+
+**Link to Project**: [HackerRank Solutions](https://github.com/carlymichele/Coding-Solutions/tree/master/HackerRank)
+
+
+### Day 54: January 23, 2018
+
+**Today's Progress**: CODE2040 Data Science Interviews
+
+**Time**: 2 hours
+
+**Thoughts:** I completed another behavioral and technical interview.

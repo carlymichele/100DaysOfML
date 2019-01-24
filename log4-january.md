@@ -36,4 +36,4 @@
 
 **Time**: 2 hours
 
-**Thoughts:** I completed another behavioral and technical interview.
+**Thoughts:** I completed another behavioral and technical interview on Coderpad. This was my first technical skype interview in a while. I was a little nervous at first (because I know how little practice I've had recently) but I think I did great considering. 

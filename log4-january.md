@@ -47,8 +47,6 @@
 
 **Thoughts:** Webinar on "Nailing Behavioral/Technical Interviews"
 
-**Link to Project**: [HackerRank Solutions](https://github.com/carlymichele/Coding-Solutions/tree/master/HackerRank)
-
 
 ### Day 56: January 25, 2018
 
@@ -58,4 +56,4 @@
 
 **Thoughts:** Link to the problem https://www.hackerrank.com/challenges/sock-merchant/problem
 
-**Link to Project**: [HackerRank Solutions](https://github.com/carlymichele/Coding-Solutions/tree/master/HackerRank)
+**Link to Project**: [Sock Merchant Problem](https://github.com/carlymichele/Coding-Solutions/blob/master/HackerRank/Sock-Merchant.py)

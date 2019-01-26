@@ -36,4 +36,26 @@
 
 **Time**: 2 hours
 
-**Thoughts:** I completed another behavioral and technical interview on Coderpad. This was my first technical skype interview in a while. I was a little nervous at first (because I know how little practice I've had recently) but I think I did great considering. 
+**Thoughts:** I completed another behavioral and technical interview on Coderpad. This was my first technical skype interview in a while. I was a little nervous at first (because I know how little practice I've had recently) but I think I did great considering.
+
+
+### Day 55: January 24, 2018
+
+**Today's Progress**: CODE2040 Webinar
+
+**Time**: 1 hour
+
+**Thoughts:** Webinar on "Nailing Behavioral/Technical Interviews"
+
+**Link to Project**: [HackerRank Solutions](https://github.com/carlymichele/Coding-Solutions/tree/master/HackerRank)
+
+
+### Day 56: January 25, 2018
+
+**Today's Progress**: HackerRank Warm up Challenge: Sock Merchant
+
+**Time**: 1 hour
+
+**Thoughts:** Link to the problem https://www.hackerrank.com/challenges/sock-merchant/problem
+
+**Link to Project**: [HackerRank Solutions](https://github.com/carlymichele/Coding-Solutions/tree/master/HackerRank)

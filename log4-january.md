@@ -57,3 +57,23 @@
 **Thoughts:** Link to the problem https://www.hackerrank.com/challenges/sock-merchant/problem
 
 **Link to Project**: [Sock Merchant Problem](https://github.com/carlymichele/Coding-Solutions/blob/master/HackerRank/Sock-Merchant.py)
+
+
+### Day 57: January 26, 2018
+
+**Today's Progress**: ML Youtube Videos
+
+**Time**: 2 hours
+
+**Thoughts:** Watched AI evolution videos to learn about incremental learning.
+
+<!--
+### Day 58: January 27, 2018
+
+**Today's Progress**: Dropbox Challenge
+
+**Time**: 1.5 hours
+
+**Thoughts:** Link to the problem https://www.hackerrank.com/challenges/sock-merchant/problem
+
+**Link to Project**: [Sock Merchant Problem](https://github.com/carlymichele/Coding-Solutions/blob/master/HackerRank/Sock-Merchant.py) -->

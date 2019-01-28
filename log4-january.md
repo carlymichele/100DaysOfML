@@ -67,10 +67,19 @@
 
 **Thoughts:** Watched AI evolution videos to learn about incremental learning.
 
-<!--
+
 ### Day 58: January 27, 2018
 
-**Today's Progress**: Dropbox Challenge
+**Today's Progress**: School of AI Hackathon planning
+
+**Time**: 1 hour
+
+**Thoughts:** No thoughts.
+
+<!--
+### Day 59: January 28, 2018
+
+**Today's Progress**: Code 2040 - Grid Illumination | Dropbox Challenge
 
 **Time**: 1.5 hours
 

@@ -86,3 +86,12 @@
 **Thoughts:** Link to the problem https://www.hackerrank.com/challenges/sock-merchant/problem
 
 **Link to Project**: [Sock Merchant Problem](https://github.com/carlymichele/Coding-Solutions/blob/master/HackerRank/Sock-Merchant.py) -->
+
+
+### Day 59: January 29, 2018
+
+**Today's Progress**: ML Internships
+
+**Time**: 3 hour
+
+**Thoughts:** I reached out to my tia Irene for help with interview prepping. I also researched some internship opportunities and completed a few applications. My challenge will be getting a letter of recommendation.

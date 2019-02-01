@@ -95,3 +95,12 @@
 **Time**: 3 hour
 
 **Thoughts:** I reached out to my tia Irene for help with interview prepping. I also researched some internship opportunities and completed a few applications. My challenge will be getting a letter of recommendation.
+
+
+### Day 60: January 31, 2018
+
+**Today's Progress**: Stats HW
+
+**Time**: 1 hour
+
+**Thoughts:** Completed some stats homework on quantitative vs qualitative data

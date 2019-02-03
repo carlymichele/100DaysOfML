@@ -1,4 +1,4 @@
-# 100 Days Of ML Code - Month 3 (January  - January 31)
+# 100 Days Of ML Code - Month 3 (January 17 - January 31)
  #100DaysofMLCode Challenge: to commit an hour a day (or almost everyday) to code/study machine learning for 100 days.
 
 ### Day 53: January 17, 2018
